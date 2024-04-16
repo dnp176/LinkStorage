@@ -4,7 +4,8 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 const App = () => {
   const [data, setData] = useState([]);
-
+<script async="async" data-cfasync="false" src="//pl23083819.profitablegatecpm.com/98774465a2b8f335f0c935d823dedc8e/invoke.js"></script>
+<div id="container-98774465a2b8f335f0c935d823dedc8e"></div>
   const handleSearch = () => {
     const input = document.getElementById('myInput');
     const filter = input.value.toUpperCase();
